@@ -12,10 +12,10 @@ I help organizations adopt **GitHub, GitHub Copilot, DevSecOps, and Azure** to b
 - ☁️ Experienced in GitHub Enterprise, Azure, CI/CD, and cloud architecture
 - 🤖 Focused on GitHub Copilot adoption, AI-native development, and developer productivity
 - 🔐 Hands-on with GitHub Advanced Security, CodeQL, Dependabot, and Secret Scanning
-- 🔄 Experienced in Azure DevOps, Bitbucket, TFVC, and GitHub migrations
+- 🔄 Experienced in Azure implementation and Migrations
 - 🎤 Speaker and trainer for GitHub, Copilot, DevOps, and secure software delivery
 - 🏆 Microsoft OneHackathon winner
-- 📍 Based in Delhi, India
+- 📍 Based in India
 
 ---
 
@@ -65,44 +65,7 @@ CI/CD and DevSecOps Implementation
 Governance, Security and Optimization
 ```
 
----
-
-## 🌟 Key Highlights
-
-- Delivered **45+ GitHub and Copilot workshops**
-- Supported **25+ customers** with GitHub adoption and implementation
-- Built automation that reduced GitHub environment setup time from **45–60 minutes to 5–10 minutes**
-- Worked on enterprise GitHub migrations and platform modernization
-- Designed reusable CI/CD workflows with security and quality gates
-- Helped teams improve developer productivity using GitHub Copilot
 - Earned multiple GitHub and Microsoft certifications and skill badges
 
----
-
-## 📚 Currently Exploring
-
-- AI-native software development
-- GitHub Copilot customization and agents
-- Model Context Protocol
-- Enterprise GitHub architecture
-- Platform engineering and developer experience
-- Secure and scalable DevOps practices
-
----
-
-## 🤝 Let's Connect
-
-I enjoy discussing:
-
-- GitHub architecture
-- GitHub Copilot adoption
-- DevSecOps
-- Cloud modernization
-- CI/CD transformation
-- Developer productivity
-
-Feel free to explore my repositories and connect with me for collaboration, knowledge sharing, or technical discussions.
-
----
 
 > **Building secure platforms, enabling developers, and turning technology into business value.**
